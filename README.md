@@ -1,4 +1,4 @@
-<img src="./images/eduni_logo.png"  height="100" align="left"> <img src="./images/epcc_logo.jpg" align="right" height="100">
+<img src="./images/eduni_logo.png"  height="64" align="left"> <img src="./images/epcc_logo.jpg" align="right" height="64">
 
 <br /><br /><br /><br /><br />
 
