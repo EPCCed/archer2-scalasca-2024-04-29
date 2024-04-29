@@ -8,11 +8,11 @@
 
 <ul>
 
-<a href="0_ToolsOverview.pdf">0_ToolsOverview.pdf</a>
-<a href="1_Score-P_basic.pdf">1_Score-P_basic.pdf</a>
-<a href="2_Score-P_filtering.pdf">2_Score-P_filtering.pdf</a>
-<a href="3_Score-P_special.pdf">3_Score-P_special.pdf</a>
-<a href="4_Cube.pdf">4_Cube.pdf</a>
-<a href="5_Scalasca.pdf">5_Scalasca.pdf</a>
+<li> <a href="0_ToolsOverview.pdf">0_ToolsOverview.pdf</a>
+<li> <a href="1_Score-P_basic.pdf">1_Score-P_basic.pdf</a>
+<li> <a href="2_Score-P_filtering.pdf">2_Score-P_filtering.pdf</a>
+<li> <a href="3_Score-P_special.pdf">3_Score-P_special.pdf</a>
+<li> <a href="4_Cube.pdf">4_Cube.pdf</a>
+<li> <a href="5_Scalasca.pdf">5_Scalasca.pdf</a>
 
 </ul>
